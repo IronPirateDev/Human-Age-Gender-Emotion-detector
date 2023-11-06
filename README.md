@@ -12,7 +12,6 @@ Before running the code, make sure you have the following installed:
 ## Installation
 
 ### 1) Open Anaconda Prompt and execute the following commands to install the required packages:
-     ```bash
      pip install opencv-python
      pip install face_recognition
      pip install numpy
@@ -21,7 +20,6 @@ Before running the code, make sure you have the following installed:
 
 ## Usage
 ### 1) Clone this repository to your local machine using this Code
-      ```
       git clone https://github.com/ironpiratedev/bus-tracking.git
 ### 2) Open the project in your preferred Python environment (Jupyter Notebook or Visual Studio Code).
 ### 3) Run the code.
