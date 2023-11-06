@@ -21,7 +21,7 @@ Before running the code, make sure you have the following installed:
 
 ## Usage
 ### 1) Clone this repository to your local machine using this Code
-      ```python
+      ```
       git clone https://github.com/ironpiratedev/bus-tracking.git
 ### 2) Open the project in your preferred Python environment (Jupyter Notebook or Visual Studio Code).
 ### 3) Run the code.
