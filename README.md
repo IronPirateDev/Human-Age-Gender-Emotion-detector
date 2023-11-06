@@ -1,4 +1,4 @@
-# Human Age, Gender, Emotion Detection using Face Detection
+# 👨👧Human Age, Gender, Emotion Detection using Face Detection👵🧓
 
 👤 This project utilizes `face_recognition` and `deepface` libraries to perform real-time analysis of faces, providing predictions for age, gender, and emotion.
 
